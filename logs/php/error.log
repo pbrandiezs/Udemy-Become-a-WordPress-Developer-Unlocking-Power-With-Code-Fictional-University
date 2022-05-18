@@ -69,3 +69,4 @@ Stack trace:
 [18-May-2022 20:59:39 UTC] PHP   3. require_once() C:\Users\pbran\Local Sites\fictional-university\app\public\wp-blog-header.php:19
 [18-May-2022 20:59:39 UTC] PHP   4. include() C:\Users\pbran\Local Sites\fictional-university\app\public\wp-includes\template-loader.php:106
 [18-May-2022 21:09:07 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ';' or ',' in C:\Users\pbran\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\single-event.php on line 31
+[18-May-2022 21:46:22 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE), expecting ';' or ',' in C:\Users\pbran\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\single-program.php on line 51
