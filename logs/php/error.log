@@ -56,3 +56,16 @@ Stack trace:
 #2 C:\Users\pbran\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\pbran\\...')
 #3 {main}
   thrown in C:\Users\pbran\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\page-past-events.php on line 34
+[18-May-2022 20:58:57 UTC] PHP Warning:  Use of undefined constant related_programs - assumed 'related_programs' (this will throw an Error in a future version of PHP) in C:\Users\pbran\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\single-event.php on line 29
+[18-May-2022 20:58:57 UTC] PHP Stack trace:
+[18-May-2022 20:58:57 UTC] PHP   1. {main}() C:\Users\pbran\Local Sites\fictional-university\app\public\index.php:0
+[18-May-2022 20:58:57 UTC] PHP   2. require() C:\Users\pbran\Local Sites\fictional-university\app\public\index.php:17
+[18-May-2022 20:58:57 UTC] PHP   3. require_once() C:\Users\pbran\Local Sites\fictional-university\app\public\wp-blog-header.php:19
+[18-May-2022 20:58:57 UTC] PHP   4. include() C:\Users\pbran\Local Sites\fictional-university\app\public\wp-includes\template-loader.php:106
+[18-May-2022 20:59:39 UTC] PHP Warning:  Use of undefined constant relatedPrograms - assumed 'relatedPrograms' (this will throw an Error in a future version of PHP) in C:\Users\pbran\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\single-event.php on line 29
+[18-May-2022 20:59:39 UTC] PHP Stack trace:
+[18-May-2022 20:59:39 UTC] PHP   1. {main}() C:\Users\pbran\Local Sites\fictional-university\app\public\index.php:0
+[18-May-2022 20:59:39 UTC] PHP   2. require() C:\Users\pbran\Local Sites\fictional-university\app\public\index.php:17
+[18-May-2022 20:59:39 UTC] PHP   3. require_once() C:\Users\pbran\Local Sites\fictional-university\app\public\wp-blog-header.php:19
+[18-May-2022 20:59:39 UTC] PHP   4. include() C:\Users\pbran\Local Sites\fictional-university\app\public\wp-includes\template-loader.php:106
+[18-May-2022 21:09:07 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ';' or ',' in C:\Users\pbran\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\single-event.php on line 31
